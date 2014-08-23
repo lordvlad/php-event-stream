@@ -1,0 +1,13 @@
+{
+    "name": "wre/php-event-stream",
+    "description": "An EventStream implementation in php. Go FRP!",
+    "authors": [
+        {
+            "name": "Waldemar Reusch",
+            "email": "waldemar.reusch@googlemail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
